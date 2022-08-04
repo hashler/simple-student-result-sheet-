@@ -1,0 +1,10 @@
+E:\programs\C#\secondApp\bin\Debug\secondApp.exe.config
+E:\programs\C#\secondApp\bin\Debug\secondApp.exe
+E:\programs\C#\secondApp\bin\Debug\secondApp.pdb
+E:\programs\C#\secondApp\obj\Debug\secondApp.csproj.AssemblyReference.cache
+E:\programs\C#\secondApp\obj\Debug\secondApp.Form1.resources
+E:\programs\C#\secondApp\obj\Debug\secondApp.Properties.Resources.resources
+E:\programs\C#\secondApp\obj\Debug\secondApp.csproj.GenerateResource.cache
+E:\programs\C#\secondApp\obj\Debug\secondApp.csproj.CoreCompileInputs.cache
+E:\programs\C#\secondApp\obj\Debug\secondApp.exe
+E:\programs\C#\secondApp\obj\Debug\secondApp.pdb
